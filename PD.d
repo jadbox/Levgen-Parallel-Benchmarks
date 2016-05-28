@@ -10,7 +10,7 @@ enum nRooms = 100;     /// Maximum number of rooms in a level.
 enum roomSizeBase = 2; /// Rooms will be at least this value plus one in size.
 enum roomSizeMod = 8;  /// Random additional room size: [0 .. roomSizeMod).
 
-enum nLevels = 800;
+enum nLevels = 200;
 enum nTries = 50_000;
 
 struct Tile { uint x, y, t; }

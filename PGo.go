@@ -12,7 +12,7 @@ const (
 	TileDim     = 50
 	WidMin      = 2
 	RestWidMax  = 8
-	NumLevs     = 800
+	NumLevs     = 200
 	NumTries    = 50000
 	DefaultSeed = "18"
 )
